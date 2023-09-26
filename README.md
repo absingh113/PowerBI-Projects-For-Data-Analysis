@@ -23,3 +23,10 @@ Assemble your visualizations into a cohesive dashboard. Arrange visuals, add sli
 
 Interactivity:
 Make your report interactive by adding filters, slicers, and drill-through actions. Allow users to explore the data from different angles.
+
+Project Learnings:
+• Created an interactive dashboard to track and analyze online sales data.
+• Used complex parameters to drill down in worksheet and customization using  filters and slicers
+• Created connections, joined new tables, calculations to manipulate data and enable user-driven parameters for visualizations
+• Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc.)
+
